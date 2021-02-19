@@ -3,7 +3,7 @@
 
 ✨ _**husseinraed/husseinraed**_ ✨
 
-- 🔭 I’m currently working on [gobuild](https://github.com/memesterhub/gobuild)
-- 🌱 I’m currently learning [golang](https://golang.org)
+- 🔭 I’m currently working on ????
+- 🌱 I’m currently learning ????
 
 ![Hussein's github stats](https://github-readme-stats.vercel.app/api?username=husseinraed&show_icons=true&theme=radical)
